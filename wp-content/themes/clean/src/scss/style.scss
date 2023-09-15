@@ -1,5 +1,8 @@
-@import "components/header";
+// globals
+@import "global/fonts";
+@import "global/const";
+@import "global/common";
 
-p {
-   margin: 0;
-}
+
+// components
+@import "components/header";
